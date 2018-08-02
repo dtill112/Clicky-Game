@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Cat in Hat",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/dkkPANN18HWmv2THQwY8v1mLnY4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/03/02/703/n/1922243/df8290f3_edit_img_cover_file_22005149_1330689600_Dr-Seuss-Animal-Characters/i/Dr-Seuss-Animal-Characters.jpg",
+    "occupation": "",
+    "location": ""
+  },
+  {
+    "id": 2,
+    "name": "Grinch",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/f/f6/The_Grinch.jpg/revision/latest?cb=20180608210015"
+ 
+  },
+  {
+    "id": 3,
+    "name": "Snorlax",
+    "image": "http://images.clipartpanda.com/dr-seuss-characters-1452703_f260.jpg"
+   
+  },
+  {
+    "id": 4,
+    "name": "Green Eggs and Ham",
+    "image": "https://i.ebayimg.com/images/g/lg0AAOSwF1dUPnVE/s-l300.jpg"
+ 
+  },
+  {
+    "id": 5,
+    "name": "Horton",
+    "image": "http://worldartsme.com/images/dr-seuss-characters-clipart-1.jpg"
+
+  
+  },
+  {
+    "id": 6,
+    "name": "Thing One",
+    "image": "http://mariafresa.net/data_gallery/thing-1-thing-2-dr-seuss-9OrKNl-clipart_437.jpg"
+ 
+  },
+  {
+    "id": 7,
+    "name": "Cindy Lou Who",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81a-WL%2BKSsL._SX425_.jpg"
+ 
+  },
+  {
+    "id": 8,
+    "name": "Places You Will Go",
+    "image": "https://wondersonder.files.wordpress.com/2014/09/the-places-you-will-go-seuss.jpg"
+ 
+  },
+  {
+    "id": 9,
+    "name": "Fox in Socks",
+    "image": "https://i.ebayimg.com/images/g/XwoAAOSwhh5ToZYt/s-l300.jpg"
+ 
+  },
+  {
+    "id": 10,
+    "name": "Happy Birthday",
+    "image": "https://vignette.wikia.nocookie.net/seuss/images/a/a6/Tumblr_mhjyug38DT1r1rgjfo1_1280.jpg/revision/latest?cb=20130207204030"
+ 
+  },
+  {
+    "id": 11,
+    "name": "Scrambled Eggs",
+    "image": "https://i.pinimg.com/originals/9a/11/28/9a1128b79e1166ca97ca3941949529cf.jpg"
+ 
+  },
+  {
+    "id": 12,
+    "name": "Wocket",
+    "image": "https://springboard-cdn.appadvice.com/generated-app-plays/1293925992/39634944-half-thumb/00001.jpg"
+ 
+  },
+  {
+    "id": 13,
+    "name": "Hop on Pop",
+    "image": "http://images.gawker.com/rgjl87suuisncsf9inea/c_fit,fl_progressive,q_80,w_636.jpg"
+ 
+  },
+  {
+    "id": 14,
+    "name": "Butter Battle",
+    "image": "https://andystoons.files.wordpress.com/2016/08/hqdefault13.jpg?w=748"
+ 
+  },
+  {
+    "id": 15,
+    "name": "Ooble",
+    "image": "https://vignette.wikia.nocookie.net/seuss/images/0/0f/Oobleck2.jpg/revision/latest?cb=20180211013034"
+ 
+  },
+  {
+    "id": 16,
+    "name": "Foot Book",
+    "image": "https://i.pinimg.com/736x/67/4f/a2/674fa2d5129f5b786a233a819b30866a--dr-suess-amazon-com.jpg"
+ 
+  },
+  {
+    "id": 17,
+    "name": "Zoo",
+    "image": "http://orig10.deviantart.net/7a75/f/2016/150/b/1/zoo_by_penandpaper64-da4enpj.jpg"
+ 
+  },
+  {
+    "id": 18,
+    "name": "Pet",
+    "image": "https://www.starnetlibraries.org/wp-content/uploads/2016/08/Which-Pet.pptx.jpg"
+ 
+  },
+  {
+    "id": 19,
+    "name": "Thing 2",
+    "image": "https://vignette.wikia.nocookie.net/minegusta/images/e/ed/Thing2.jpg/revision/latest?cb=20150712031712ç"
+ 
+  },
+  {
+    "id": 20,
+    "name": "Dr. Suess",
+    "image": "https://i.pinimg.com/736x/bd/cf/cf/bdcfcf9430450d0304f2b52a27214c5c--dr-seuss.jpg"
+
+  }
+]
